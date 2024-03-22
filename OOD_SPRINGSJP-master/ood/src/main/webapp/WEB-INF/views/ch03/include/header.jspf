@@ -1,0 +1,9 @@
+<%--
+  User: bonggyun jo
+  Date: 2024-03-15
+  Time: 오후 15:50
+--%>
+<%@ page contentType="text/html" pageEncoding="UTF-8" %>
+
+페이지 상단에 들어갈 문구 (header.jsp)
+<hr>
